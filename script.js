@@ -16,11 +16,11 @@ const tips = [
         img: "vnq.jpg"
     },
     {
-        text: "Giám sát kỹ: Luôn kiểm tra thực phẩm thường xuyên để tránh bị cháy.",
+        text: "Khẩu vị đầu bếp đang kỳ cục, mai dạy sau ;v",
         img: "vnq.jpg"
     },
     {
-        text: "Sử dụng đồng hồ hẹn giờ: Đặt hẹn giờ để nhắc nhở kiểm tra thực phẩm đúng lúc.",
+        text: "Update: Chỉ luộc ko đá sang rán.",
         img: "vnq.jpg"
     }
 ];
